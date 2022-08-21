@@ -1,2 +1,6 @@
 # SOF106-Principles-of-Artificial-Intelligence-
 Final project
+
+Chatbots are intelligent agents with which users can engage in conversations using natural language, usually via text or voice. After decades of evolution, highly developed chatbots like Siri, Cortana, and Alexa have left people surprised with their intelligence and capabilities. However, these super-smart chatbot requires significant experience and expertise, However, their perfection relies on the long-term collaboration and refinement of a large number of professionals, hard to be replicated. Therefore, in this paper, our group focused on designing a chatbot that can have daily conversations with us and make itself our chat partner under the COVID-19 situation. We named it Intelligent Companion. 
+
+Intelligent Companion is a program written in python and based on the application of artificial intelligence knowledge such as Natural Language Processing and Neural Network. Compared to the earliest chatbots such as ELIZA, our Intelligent Companion uses a similar rule-based system and a more advanced self-learning algorithm. Improved on the restricted conversation content and the inability in generating meaningful natural language conversations, it can generate richer, meaningful, and special conversational responses.
